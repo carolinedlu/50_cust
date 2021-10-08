@@ -1,4 +1,4 @@
 import streamlit as st
 
-while true
+while True:
   st.balloons()
